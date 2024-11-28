@@ -1,2 +1,4 @@
 # DNSTools
 Powershell Module for querying SPF, DMARC and MX records for domains
+
+https://www.powershellgallery.com/packages/dnstools for installation and further details
